@@ -1,0 +1,7 @@
+# Course data: kept out of the repository (delete this line to commit it)
+data/*.parquet
+
+# MATLAB outputs and autosaves
+results_*.mat
+*.asv
+*.m~
